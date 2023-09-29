@@ -42,4 +42,6 @@ Hey! I am Ayan. I am a Fronetend Developer and love to play with React and Tailw
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate on Projects related to MERN stack.
 - 📫 How to reach me:
-      You can connect with me on [<picture>https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png</picture>](https://www.linkedin.com/in/ayan-saxena-210a5421b/)
+      You can connect with me on </br></br>
+     &nbsp; [![pngwing com](https://github.com/Ayansaxena24/Ayansaxena24/assets/84512148/5658f0d9-64db-4eb7-aba9-e3cba4ca44b6)
+](https://www.linkedin.com/in/ayan-saxena-210a5421b/) [![pngwing com](https://github.com/Ayansaxena24/Ayansaxena24/assets/84512148/551ccd15-38ed-4e6c-bbb0-65efe571b93c)](https://www.instagram.com/ayan.saxena24/)
