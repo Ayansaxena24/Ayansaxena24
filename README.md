@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##About me
 
-Hey! I am Ayan. I am a Fronetend Developer and love to play with React and Tailwind CSS in my free time. 
+Hey! I am Ayan. I am a Frontend Developer and love to play with React and Tailwind CSS in my free time. 
 
 
 ![—Pngtree—hacker wearing hoodie and using_5424344](https://github.com/Ayansaxena24/Ayansaxena24/assets/84512148/e6d56660-a584-4af7-aa6b-f3efc10ea1e8)
